@@ -2,7 +2,7 @@
 
 This repository contains R/Shell code for the methods in the paper:
 
-- **Li et al.** (Genetic Epidemiology) — https://doi.org/10.1002/gepi.22589
+- Liu, H., & Zhang, H. (2025). Powerful Rare-Variant Association Analysis of Secondary Phenotypes. Genetic epidemiology, 49(1), e22589. https://doi.org/10.1002/gepi.22589
 
 It includes both **simulation code** and **real data analysis code**.
 
